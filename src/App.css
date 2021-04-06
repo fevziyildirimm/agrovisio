@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+
+.textbox{
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  outline: none;
+
+  font: inherit; /* From body */
+
+  border: 1px solid transparent;
+  padding-top: calc(0.5em - 1px);
+  padding-bottom: calc(0.5em - 1px);
+  padding-left: calc(0.5em - 1px);
+  padding-right: calc(0.5em - 1px);
+  
+  border-radius: 2px; /* Your style */
+  transition: box-shadow 0.24s ease; /* Your style */
+}
+
+/* Same opacity in all browsers */
+.textbox::placeholder {
+  opacity: 0.35; /* Your style */
+}
+
+/* When textbox is active */
+.textbox:focus{
+  box-shadow: 0px 0px 2px 4px rgba(204,204,204,0.4);
+  /* Your style */
+}
+
+.style2{
+  color:white;
+  cursor: pointer;
+  
+}
+.style2 h4{
+  display: none;
+}
+.style1{
+  
+  color:rgb(19, 114, 143);
+  cursor: pointer;
+
+}
