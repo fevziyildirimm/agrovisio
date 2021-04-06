@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agrovisio/static/css/main.afd53015.chunk.css",
+    "main.js": "/agrovisio/static/js/main.e8e7e4d3.chunk.js",
+    "main.js.map": "/agrovisio/static/js/main.e8e7e4d3.chunk.js.map",
+    "runtime-main.js": "/agrovisio/static/js/runtime-main.82d906ad.js",
+    "runtime-main.js.map": "/agrovisio/static/js/runtime-main.82d906ad.js.map",
+    "static/js/2.bff076c5.chunk.js": "/agrovisio/static/js/2.bff076c5.chunk.js",
+    "static/js/2.bff076c5.chunk.js.map": "/agrovisio/static/js/2.bff076c5.chunk.js.map",
+    "static/js/3.54d036d4.chunk.js": "/agrovisio/static/js/3.54d036d4.chunk.js",
+    "static/js/3.54d036d4.chunk.js.map": "/agrovisio/static/js/3.54d036d4.chunk.js.map",
+    "index.html": "/agrovisio/index.html",
+    "static/css/main.afd53015.chunk.css.map": "/agrovisio/static/css/main.afd53015.chunk.css.map",
+    "static/js/2.bff076c5.chunk.js.LICENSE.txt": "/agrovisio/static/js/2.bff076c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d906ad.js",
+    "static/js/2.bff076c5.chunk.js",
+    "static/css/main.afd53015.chunk.css",
+    "static/js/main.e8e7e4d3.chunk.js"
+  ]
+}
